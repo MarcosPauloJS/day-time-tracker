@@ -1,7 +1,7 @@
 import React from "react";
 import { ThemeProvider } from "styled-components";
 import { CustomTheme, GlobalStyles } from "./styledConfig";
-import { Home } from "./componentes/pages";
+import { Home } from "@pages";
 
 function App() {
   return (

@@ -1,7 +1,7 @@
 import { object, string } from "prop-types";
 import React from "react";
-import { getTheme } from "../../../utils";
-import { Box } from "../../elements";
+import { getTheme } from "@utils";
+import { Box } from "@elements";
 
 export default function SimpleCard({ text }) {
   return (
