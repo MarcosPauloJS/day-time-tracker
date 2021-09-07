@@ -1,9 +1,8 @@
-import React from 'react'
+import React from "react";
+import { SimpleCard } from "../../elements";
 
 const Home = () => {
-  return (
-   <h1>Home</h1>
-  )
-}
+  return <SimpleCard text="hello word"></SimpleCard>;
+};
 
 export default Home;

@@ -14,14 +14,14 @@ const colors = {
 }
 
 const fonts = {
-  small: 12,
-  medium: 18,
-  big: 24,
-  bigger:  36,
-  biggest: 48
+  small: '12px',
+  medium: '18px',
+  big: '24px',
+  bigger:  '36px',
+  biggest: '48px'
 }
 
-const sizes = [0, 2, 4, 8, 12, 16, 18, 20, 24, 28, 30];
+const sizes = ['0px', '2px', '4px', '8px', '12px', '16px', '18px', '20px', '24px', '28px', '30px'];
 
 export const CustomTheme = {
   colors,
